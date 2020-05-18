@@ -1,4 +1,6 @@
 # tuple-map
+![Rust](https://github.com/nwtgck/tuple-map-rust/workflows/Rust/badge.svg?branch=develop)
+
 .map() operation for tuples in Rust
 
 ## Install
